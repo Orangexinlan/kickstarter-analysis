@@ -13,7 +13,7 @@ There are two charts listed below to show how outcomes connected between the lun
 ### Analysis of Outcomes Based on Launch Date
 We will see based on the lunching month,most projects lunched on the second quarter of the year. There's a peak for outcomes successful in May. And 
 
-Resources/Outcomes_vs_Goal.png[Github page] (https://github.com/Orangexinlan/kickstarter-analysis/blob/f5e4e40edac38444e597a328e1299831c6a51768/Theater_Outcomes_vs_Lauch.png)
+！[this is an image] (https://github.com/Orangexinlan/kickstarter-analysis/blob/f5e4e40edac38444e597a328e1299831c6a51768/Theater_Outcomes_vs_Lauch.png)
 
 ### Analysis of Outcomes Based on Goals
 [Github Page] (https://github.com/Orangexinlan/kickstarter-analysis/blob/c48365344589c913c640fb678c672e3aa9a7c3f3/Resources/Outcomes_vs_Goal.png)
