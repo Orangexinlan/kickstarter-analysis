@@ -1,13 +1,17 @@
 # Kickstarting with Excel
 
 ## Overview of Project
+Louise wants to start a Crowndfunding Campaign to start her play, Fever. She's estimating a budget over $10,000,and understandably hesitate about jumping into her first fundraising campaign. Her Play came close to its fundraising goal in a short amount of time.
 
 ### Purpose
->This excel is to help Louise to know how different campaigns fared in relation to their launch dates and their funding goals.
+Using Excel to organize, sort and analyze crowdfunding data to determine whether there are specific factors that make a Project's campaign successful.
+We will figure out how different campaigns fared in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
+There are two charts listed below to show how outcomes connected between the lunch date and goals.
 
 ### Analysis of Outcomes Based on Launch Date
+We will see based on the lunching month,most projects lunched on the second quarter of the year. There's a peak for outcomes successful in May. And 
 [Github page] (https://github.com/Orangexinlan/kickstarter-analysis/blob/f5e4e40edac38444e597a328e1299831c6a51768/Theater_Outcomes_vs_Lauch.png)
 
 ### Analysis of Outcomes Based on Goals
